@@ -14,4 +14,4 @@ export const contactLinks: ContactLink[] = [
   },
 ];
 
-export const email = "sutsu332@gmail.com";
+export const email = "sugita.dev0634@gmail.com";
