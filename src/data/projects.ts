@@ -46,14 +46,14 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/konohq/JOBHUNTMANAGER",
     testUsers: [
       {
-        label: "テストユーザー1",
-        email: "iamtest1@gmail.com",
-        password: "iamtest",
+        label: "ゲストユーザー1",
+        email: "iamguest1@gmail.com",
+        password: "iamguest",
       },
       {
-        label: "テストユーザー2",
-        email: "iamtest2@gmail.com",
-        password: "iamtest",
+        label: "ゲストユーザー2",
+        email: "iamguest2@gmail.com",
+        password: "iamguest",
       },
     ],
   },
